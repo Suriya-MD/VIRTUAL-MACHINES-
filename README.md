@@ -1,7 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-# Name: YUVARAJ M
-# Register Number: 212224050062
+# Name: SURIYA M
+# Register Number: 212223110055
 
 Aim:
 To move the files between virtual machine.
